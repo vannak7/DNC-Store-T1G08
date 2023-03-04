@@ -6,8 +6,8 @@
 }
 /* Variáveis para padronização dos estilos */ 
 :root {
-	--azul-dnc: #0c7072;
-    --preto-dnc: #2D2D2D;
+	--azul-dnc: #0C70F2;
+    --preto-dnc: #2D2D2D;   
 	--font-dnc: 'Raleway';
     --font-color-white: #FFFFFF;
     --font-color-dark: #2D2D2D;
@@ -27,33 +27,3 @@
 
 
 
-/* Página Principal - Cabeçalho */ 
-
-
-
-
-
-
-
-/* Página Principal - Centro */ 
-
-
-
-
-
-
-
-
-/* Página Carrinho */ 
-
-
-
-
-
-
-/* Modal 1 - Meu Carrinho */ 
-
-
-
-
-/* Modal 2 - Finalizar Compra */ 

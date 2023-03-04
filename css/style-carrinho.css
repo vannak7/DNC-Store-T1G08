@@ -1,0 +1,32 @@
+/* Remoção das margens e padding da página */ 
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+/* Variáveis para padronização dos estilos */ 
+:root {
+	--azul-dnc: #0C70F2;
+    --preto-dnc: #2D2D2D;   
+	--font-dnc: 'Raleway';
+    --font-color-white: #FFFFFF;
+    --font-color-dark: #2D2D2D;
+    --font-color-black: #000000;
+}
+    /* Para usar as variáveis use o modelo abaixo 
+    #principal { background-color: var(--azul-dnc);} */ 
+
+
+/* Página Carrinho */ 
+
+
+
+
+
+
+/* Modal 1 - Meu Carrinho */ 
+
+
+
+
+/* Modal 2 - Finalizar Compra */ 

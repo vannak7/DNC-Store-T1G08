@@ -1,12 +1,3 @@
-/* Página de Login */
-
-
-
-
-/* Página Principal */
-
-
-
 
 /* Página Carrinho */
 
