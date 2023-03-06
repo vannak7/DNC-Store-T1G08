@@ -108,20 +108,27 @@
     }
 
 /* Rodapé */ 
+    footer {
+        background-color: var(--azul-dnc);
+        display: grid;
+        grid-auto-flow: column;
+        width: 100%;
+        height: 134px;
+        align-items: center;
+        justify-content: left;
+        
+    }
 
+    footer img {
+        margin: 0px 60px 0px 60px;
+    }
 
+    footer p {
+        color: var(--font-color-white);
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        margin-top: 10px;
+    }
 
-
-/* Página Carrinho */ 
-
-
-
-
-
-
-/* Modal 1 - Meu Carrinho */ 
-
-
-
-
-/* Modal 2 - Finalizar Compra */ 
